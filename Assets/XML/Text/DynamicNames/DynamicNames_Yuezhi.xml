@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Inca -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_YUEZHI_DESC</Tag>
+		<English>The Yuezhi</English>
+		<French>The Yuezhi</French>
+		<German>The Yuezhi</German>
+		<Italian>The Yuezhi</Italian>
+		<Spanish>The Yuezhi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_YUEZHI_PEOPLES</Tag>
+		<English>Yuezhi Peoples</English>
+		<French>
+			<Text>Peuplades Yuezhi</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>
+			<Text>Yuezhi Peoples</Text>
+			<Gender>Female:Female:Female</Gender>
+			<Plural>1:1:1</Plural>
+		</German>
+		<Italian>
+			<Text>Popoli Yuezhi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pueblos Yuezhi</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_YUEZHI_DEFAULT</Tag>
+		<English>%s1 Nomads</English>
+		<French>%s1 Nomads</French>
+		<German>%s1 Nomads</German>
+		<Italian>%s1 Nomads</Italian>
+		<Spanish>%s1 Nomads</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_YUEZHI_KUSHAN</Tag>
+		<English>Kushan</English>
+		<French>Kushan</French>
+		<German>Kushan</German>
+		<Italian>Kushan</Italian>
+		<Spanish>Kushan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_YUEZHI_ADJECTIVE</Tag>
+		<English>Yuezhi</English>
+		<French>Yuezhi</French>
+		<German>Yuezhi</German>
+		<Italian>Yuezhi</Italian>
+		<Spanish>Yuezhi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_YUEZHI_SHORT_DESC</Tag>
+		<English>Yuezhi</English>
+		<French>Yuezhi</French>
+		<German>Yuezhi</German>
+		<Italian>Yuezhi</Italian>
+		<Spanish>Yuezhi</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_YUEZHI_FASCIST</Tag>
+		<English>Indo-Greek Empire</English>
+		<French>Indo-Greek Empire</French>
+		<German>Indo-Greek Empire</German>
+		<Italian>Indo-Greek Empire</Italian>
+		<Spanish>Indo-Greek Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KUSHAN_DEFAULT</Tag>
+		<English>%s1 Empire</English>
+		<French>%s1 Empire</French>
+		<German>%s1 Empire</German>
+		<Italian>%s1 Empire</Italian>
+		<Spanish>%s1 Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KUSHAN_ADJECTIVE</Tag>
+		<English>Kuashana</English>
+		<French>Kuashana</French>
+		<German>Kuashana</German>
+		<Italian>Kuashana</Italian>
+		<Spanish>Kuashana</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KUSHAN_SHORT_DESC</Tag>
+		<English>Kushan</English>
+		<French>Kushan</French>
+		<German>Kushan</German>
+		<Italian>Kushan</Italian>
+		<Spanish>Kushan</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_KUSHAN_FASCIST</Tag>
+		<English>Indo-Greek Empire</English>
+		<French>Indo-Greek Empire</French>
+		<German>Indo-Greek Empire</German>
+		<Italian>Indo-Greek Empire</Italian>
+		<Spanish>Indo-Greek Empire</Spanish>
+	</TEXT>
+</Civ4GameText>

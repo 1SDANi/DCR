@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Inca -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_XIONGNU_DESC</Tag>
+		<English>The Xiongnu</English>
+		<French>The Xiongnu</French>
+		<German>The Xiongnu</German>
+		<Italian>The Xiongnu</Italian>
+		<Spanish>The Xiongnu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_XIONGNU_PEOPLES</Tag>
+		<English>Xiongnu Peoples</English>
+		<French>
+			<Text>Peuplades xiongnu</Text>
+			<Gender>Female</Gender>
+			<Plural>1</Plural>
+		</French>
+		<German>Xiongnu Peoples</German>
+		<Italian>
+			<Text>Popoli xiongnu</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Pueblos Xiongnu</Text>
+			<Gender>Male</Gender>
+			<Plural>1</Plural>
+		</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_XIONGNU_DEFAULT</Tag>
+		<English>Xiongnu Confederation</English>
+		<French>Xiongnu Confederation</French>
+		<German>Xiongnu Confederation</German>
+		<Italian>Xiongnu Confederation</Italian>
+		<Spanish>Xiongnu Confederation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_XIONGNU_ADJECTIVE</Tag>
+		<English>Xiongnu</English>
+		<French>Xiongnu</French>
+		<German>Xiongnu</German>
+		<Italian>Xiongnu</Italian>
+		<Spanish>Xiongnu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_XIONGNU_SHORT_DESC</Tag>
+		<English>Xiongnu</English>
+		<French>Xiongnu</French>
+		<German>Xiongnu</German>
+		<Italian>Xiongnu</Italian>
+		<Spanish>Xiongnu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_XIONGNU_FASCIST</Tag>
+		<English>%s2 Empire</English>
+		<French>
+			<Text>Empire %s2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>
+			<Text>%s2 Reich:%s2 Reich:%s2 Reich</Text>
+			<Gender>Neuter:Neuter:Neuter</Gender>
+			<Plural>0:0:0</Plural>
+		</German>
+		<Italian>
+			<Text>Impero %s2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Italian>
+		<Spanish>
+			<Text>Imperio %s2</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</Spanish>
+	</TEXT>
+</Civ4GameText>

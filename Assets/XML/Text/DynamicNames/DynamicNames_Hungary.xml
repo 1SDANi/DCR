@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Harappa -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_DESC</Tag>
+		<English>The Hungarians</English>
+		<French>The Hungarians</French>
+		<German>The Hungarians</German>
+		<Italian>The Hungarians</Italian>
+		<Spanish>The Hungarians</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_PEOPLES</Tag>
+		<English>Magyar Peoples</English>
+		<French>Magyar Peoples</French>
+		<German>Magyar Peoples</German>
+		<Italian>Magyar Peoples</Italian>
+		<Spanish>Magyar Peoples</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_DEFAULT</Tag>
+		<English>Grand Principality of %s1</English>
+		<French>Grand Principality of %s1</French>
+		<German>Grand Principality of %s1</German>
+		<Italian>Grand Principality of %s1</Italian>
+		<Spanish>Grand Principality of %s1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_FASCIST</Tag>
+		<English>Regency of %s1</English>
+		<French>Regency of %s1</French>
+		<German>Regency of %s1</German>
+		<Italian>Regency of %s1</Italian>
+		<Spanish>Regency of %s1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_ADJECTIVE</Tag>
+		<English>Hungarian</English>
+		<French>Hungarian</French>
+		<German>Hungarian</German>
+		<Italian>Hungarian</Italian>
+		<Spanish>Hungarian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARY_SHORT_DESC</Tag>
+		<English>Hungary</English>
+		<French>Hungary</French>
+		<German>Hungary</German>
+		<Italian>Hungary</Italian>
+		<Spanish>Hungary</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_HUNGARU_AUSTRO_HUNGARIAN</Tag>
+		<English>Austro-Hungarian</English>
+		<French>
+			<Text>austro-hongrois:austro-hongroise:austro-hongrois:austro-hongroises</Text>
+			<Gender>Male:Female:Male:Female</Gender>
+			<Plural>0:0:1:1</Plural>
+		</French>
+		<German>Austro-Hungarian</German>
+		<Italian>Austro-Hungarian</Italian>
+		<Spanish>Austro-Hungarian</Spanish>
+	</TEXT>
+</Civ4GameText>

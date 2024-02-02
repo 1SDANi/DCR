@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Poland -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LITHUANIA_DESC</Tag>
+		<English>The Lithuanians</English>
+		<French>The Lithuanians</French>
+		<German>The Lithuanians</German>
+		<Italian>The Lithuanians</Italian>
+		<Spanish>The Lithuanians</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LITHUANIA_PEOPLES</Tag>
+		<English>Lithuanian Peoples</English>
+		<French>Lithuanian Peoples</French>
+		<German>Lithuanian Peoples</German>
+		<Italian>Lithuanian Peoples</Italian>
+		<Spanish>Lithuanian Peoples</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LITHUANIA_DEFAULT</Tag>
+		<English>Kingdom of %s1</English>
+		<French>Kingdom of %s1</French>
+		<German>Kingdom of %s1</German>
+		<Italian>Kingdom of %s1</Italian>
+		<Spanish>Kingdom of %s1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LITHUANIA_COMMONWEALTH</Tag>
+		<English>Polish-Lithuanian Commonwealth</English>
+		<French>
+			<Text>R&#233;publique des Deux Nations</Text>
+			<Gender>Female</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>Polish-Lithuanian Commonwealth</German>
+		<Italian>Polish-Lithuanian Commonwealth</Italian>
+		<Spanish>Polish-Lithuanian Commonwealth</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LITHUANIA_FASCIST</Tag>
+		<English>Iron Wolf %s1</English>
+		<French>Iron Wolf %s1</French>
+		<German>Iron Wolf %s1</German>
+		<Italian>Iron Wolf %s1</Italian>
+		<Spanish>Iron Wolf %s1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LITHUANIA_COMMUNIST</Tag>
+		<English>Grand Duchy of %s1</English>
+		<French>
+			<Text>Grand-duch&#233; de %s1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>Grand Duchy of %s1</German>
+		<Italian>Grand Duchy of %s1</Italian>
+		<Spanish>Grand Duchy of %s1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIVV_LITHUANIA_GRAND_DUCHY_OF</Tag>
+		<English>Grand Duchy of %s1</English>
+		<French>
+			<Text>Grand-duch&#233; de %s1</Text>
+			<Gender>Male</Gender>
+			<Plural>0</Plural>
+		</French>
+		<German>Grand Duchy of %s1</German>
+		<Italian>Grand Duchy of %s1</Italian>
+		<Spanish>Grand Duchy of %s1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LITHUANIA_ADJECTIVE</Tag>
+		<English>Lithuanian</English>
+		<French>Lithuanian</French>
+		<German>Lithuanian</German>
+		<Italian>Lithuanian</Italian>
+		<Spanish>Lithuanian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LITHUANIA_SHORT_DESC</Tag>
+		<English>Lithuania</English>
+		<French>Lithuania</French>
+		<German>Lithuania</German>
+		<Italian>Lithuania</Italian>
+		<Spanish>Lithuania</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LITHUANIA_ESTONIA</Tag>
+		<English>Estonia</English>
+		<French>Estonia</French>
+		<German>Estonia</German>
+		<Italian>Estonia</Italian>
+		<Spanish>Estonia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_LITHUANIA_LATVIA</Tag>
+		<English>Latvia</English>
+		<French>Latvia</French>
+		<German>Latvia</German>
+		<Italian>Latvia</Italian>
+		<Spanish>Latvia</Spanish>
+	</TEXT>
+</Civ4GameText>
